@@ -10,7 +10,7 @@ To show capability of the developed model, received traffic signs from the inter
 
 ---
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/test.png"  height ="40%" width="60%">
+<img src="/readme_imgs/test_images.png"  height ="40%" width="60%">
 
 **The steps of this project are the following:**
 
@@ -30,7 +30,7 @@ Raw data has been imported via pickle.
 Some samples of raw data can be seen as following:
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/rawdata.png"  height ="40%" width="60%">
+<img src="/readme_imgs/rawdata.png"  height ="40%" width="60%">
 
 ***
 
@@ -48,19 +48,19 @@ Distribution of image classes have been plotted as following:
 #### Train
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/train.png"  height ="40%" width="60%">
+<img src="readme_imgs/train.png"  height ="40%" width="60%">
 
 ***
 #### Test
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/test.png"  height ="40%" width="60%">
+<img src="readme_imgs/test.png"  height ="40%" width="60%">
 
 ***
 #### Validation
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/validation.png"  height ="40%" width="60%">
+<img src="/readme_imgs/validation.png"  height ="40%" width="60%">
 
 ***
 #### 3. Pre-Processing the Image
@@ -78,7 +78,7 @@ Finally, some samples of pre-processed images can be seen as following:
 
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/preprocessed_image.png"  height ="40%" width="60%">
+<img src="/readme_imgs/preprocessed_image.png"  height ="40%" width="60%">
 
 ***
 
@@ -149,7 +149,7 @@ I have found 5 images from the web,which can be seen at below.And the testing ac
 
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/test_images.png">
+<img src="/readme_imgs/test_images.png">
 
 ***
 
@@ -182,7 +182,7 @@ Image Accuracy = 0.600
 
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/softmax.png">
+<img src="/readme_imgs/softmax.png">
 
 ***
 
@@ -190,6 +190,6 @@ Finally, the softmax probabilities have been calculated for the images and can b
 
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/softmax_prob_bar.png">
+<img src="/readme_imgs/softmax_prob_bar.png">
 
 ***
