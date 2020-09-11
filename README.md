@@ -127,7 +127,7 @@ Based on given parameters and the architecture, the validation accuracy converge
 
 ***
 
-<img src="/home/workspace/CarND-Traffic-Sign-Classifier-Project/readme_imgs/train_acc.png">
+<img src="/readme_imgs/train_acc.png">
 
 ***
 
